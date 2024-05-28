@@ -16,3 +16,9 @@ var Diana = "cookie";
 console.log(Diana);
 ```
 Adding a JS variable 
+
+- [x] Creating a task list
+- [x] Reviewing task lisk
+- [ ] Saving changes
+
+Adding a task list 
