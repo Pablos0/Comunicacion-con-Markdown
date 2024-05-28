@@ -10,3 +10,9 @@ These changes were made to shows how looks like a header
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
 
 This is an image added from second task
+
+``` javascript
+var Diana = "cookie";
+console.log(Diana);
+```
+Adding a JS variable 
